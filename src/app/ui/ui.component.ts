@@ -21,6 +21,8 @@ export class UiComponent implements OnInit {
     let myresult = 0;
     myresult = addition(this.operator1, this.operator2);
     this.result = myresult;
+
+    
   }
 
   substraction() {
