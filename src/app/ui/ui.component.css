@@ -41,6 +41,13 @@
 
 .division-button {
     cursor: pointer;
-    color: red;
+    font-size: 1.5em;
+    color: yellow;
+}
+
+.exp-button {
+    font-size: 1.5em;
+    cursor: pointer;
+    color: black;
 }
 
